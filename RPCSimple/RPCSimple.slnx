@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RPCSimpleClient/RPCSimpleClient.csproj" />
+  <Project Path="RPCSimpleExample/RPCSimpleExample.csproj" />
+</Solution>
